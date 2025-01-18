@@ -20,11 +20,11 @@
 
 Penjelasan & Dokumen Teknis Project.
 
-| Nama Project | ---- | : API Daftar Rumah Sakit Di Jakarta |
-| Bahasa Pemograman | ---- | : PHP, Framework Laravel 9 |
-| Database | ---- | : MySQL |
-| Web Server | ---- | : Localhost |
-| Repository | ---- | https://github.com/block7code/test_dinkes_dki_yusuf_SP |
+
+| Nama Project | Bahasa Pemograman | Database | Web Server | Repository |
+|---- |----|----|----|----|
+| API Daftar Rumah Sakit Di Jakarta | PHP, Framework Laravel 9 | MySQL | Localhost | https://github.com/block7code/test_dinkes_dki_yusuf_SP |
+
 
 
 
