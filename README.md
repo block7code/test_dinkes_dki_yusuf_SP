@@ -104,7 +104,7 @@ Penjelasan & Dokumen Teknis Project.
 
 <table style="width:100%">
   <tr>
-    <th>Contoh List Terkoneksi dan Belum Terkoneksi</th>
+    <th  colspan="2">Contoh List Terkoneksi dan Belum Terkoneksi</th>
   </tr>
   <tr>
     <td><img width="100%" alt="Contoh List Terkoneksi" src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/Screenshot2.png" > </td>
@@ -114,7 +114,7 @@ Penjelasan & Dokumen Teknis Project.
 </table>
 
 <table style="width:100%">
-  <tr>
+  <tr  colspan="2">
     <th>Contoh list Filter by kota_kab dan kelas_rs</th>
   </tr>
   <tr>
