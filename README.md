@@ -107,22 +107,19 @@ Penjelasan & Dokumen Teknis Project.
     <th>Contoh List Terkoneksi dan Belum Terkoneksi</th>
   </tr>
   <tr>
-    <td><img width="50%" alt="Contoh List Terkoneksi" src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/Screenshot2.png" > </td>
+    <td><img width="100%" alt="Contoh List Terkoneksi" src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/Screenshot2.png" > </td>
+     <td><img width="100%" alt="Contoh List Belum Terkoneksi"  src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/Screenshot3.png"  > </td>
   </tr>
-  <tr>
-    <td><img width="50%" alt="Contoh List Belum Terkoneksi"  src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/Screenshot3.png"  > </td>
-  </tr>
+ 
 </table>
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <th>Contoh list Filter by kota_kab dan kelas_rs</th>
   </tr>
   <tr>
     <td><img width="100%" alt="Contoh List Terkoneksi" src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/Screenshot4.png" > </td>
-  </tr>
-  <tr>
-    <td><img width="50%" alt="Contoh List Belum Terkoneksi"  src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/Screenshot5.png"  > </td>
+    <td><img width="100%" alt="Contoh List Belum Terkoneksi"  src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/Screenshot5.png"  > </td>
   </tr>
 </table>
 
