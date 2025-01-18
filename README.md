@@ -95,11 +95,52 @@ Penjelasan & Dokumen Teknis Project.
 
 <table style="width:100%">
   <tr>
+    <th>Contoh Merge Data</th>
+  </tr>
+  <tr>
+    <td><img width="100%" alt="Contoh Merge Data"   src="/screen/Screenshot1.png"  > </td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th>Contoh List Terkoneksi dan Belum Terkoneksi</th>
+  </tr>
+  <tr>
+    <td><img width="100%" alt="Contoh List Terkoneksi" src="/screen/Screenshot2.png" > </td>
+  </tr>
+  <tr>
+    <td><img width="100%" alt="Contoh List Belum Terkoneksi"  src="/screen/Screenshot3.png"  > </td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th>Contoh list Filter by kota_kab dan kelas_rs</th>
+  </tr>
+  <tr>
+    <td><img width="100%" alt="Contoh List Terkoneksi" src="/screen/Screenshot4.png" > </td>
+  </tr>
+  <tr>
+    <td><img width="100%" alt="Contoh List Belum Terkoneksi"  src="/screen/Screenshot5.png"  > </td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th>Contoh list get by pagination dan set limit</th>
+  </tr>
+  <tr>
+    <td><img width="100%" alt="Contoh List Terkoneksi" src="/screen/Screenshot6.png" > </td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
     <th>Contoh Kesulurhan</th>
   </tr>
   <tr>
     <td><img width="100%" alt="Preview all"  src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/preview-all.gif" > </td>
   </tr>
-
 </table>
 <img width="514" alt="preview-all"  src="/screen/preview-all.gif" > 
