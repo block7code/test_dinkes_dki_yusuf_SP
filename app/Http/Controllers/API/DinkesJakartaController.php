@@ -68,9 +68,6 @@ class DinkesJakartaController extends Controller
         }
         
         $result = json_decode(RumahSakit::get_list_merge($request->page,$request->limit,$request->IsStatus,$request->kota_kab,$request->kelas_rs));
-        $limit = $request->limit;   $page = $request->page;
-        $opt=$result->opt;  $halaman =$opt->page;
-
         return response()->json($result);
     }
 
