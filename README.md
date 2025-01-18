@@ -26,7 +26,7 @@ Penjelasan & Dokumen Teknis Project.
 
 ## Cara install 
 
-- **Clone prject** Buka termimanal cd ke folder yg inngin disimpan atau di dalam htdoct dan jalan kan 
+- **Clone prject** Buka terminal cd ke folder yg ingin disimpan atau didalam htdocs dan jalan kan 
 ```
   git clone https://github.com/block7code/test_dinkes_dki_yusuf_SP.git 
 ```
@@ -42,9 +42,9 @@ Penjelasan & Dokumen Teknis Project.
   CREATE DATABASE myapp_database;
 ```
 
-- **Update file .ENV**  port dan database sesuaikan dengan server Anda
+- **Update file .ENV**  port, database, username dan password sesuaikan dengan server Anda
 ```laravel
-
+    
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
@@ -86,7 +86,7 @@ Penjelasan & Dokumen Teknis Project.
     /* Maka kejenerat Server  */
      http://127.0.0.1:8000/api/mergedata
 
-    /* Atau kalau folder project simpan di localhost htdoct bisa buka url berikut */
+    /* Atau kalau folder project simpan di localhost htdocs bisa buka url berikut */
     http://localhost:8888/test_dinkes_dki_yusuf_SP/public/api/mergedata
 ```
 
