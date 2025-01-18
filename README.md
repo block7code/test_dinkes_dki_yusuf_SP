@@ -5,7 +5,7 @@
 
 - **Mendapatkan total data terkirim.** Mengjumlahkan data  yang sudah [ dikirimkan ](https://dinkes.jakarta.go.id/apps/jp-2024/transaksi-data-satusehat.json)  ke SatuSehat Kemenkest.
 
-- **Menentukan data terkoneksi atau belum.** 
+- **Menentukan data terkoneksi ke SatuSehat Kemenkest atau belum.** 
 
 - **Bisa filter by "kota_kab".** 
 
