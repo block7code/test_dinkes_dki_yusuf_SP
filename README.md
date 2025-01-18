@@ -101,5 +101,4 @@ Penjelasan & Dokumen Teknis Project.
     <td><img width="100%" alt="Preview "  src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/preview.gif" > </td>
   </tr>
 </table>
-<img width="514" alt="flutter test"  src="/screen/preview.gif" > 
-
+<img width="514" alt="preview-all"  src="/screen/preview-all.gif" > 
