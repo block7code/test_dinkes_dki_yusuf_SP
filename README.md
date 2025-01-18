@@ -16,16 +16,79 @@
 - **Bisa atur  "limit".** 
 
 
-## Dokumen Teknis
+## :wrench: Dokumen Teknis
 
 Penjelasan & Dokumen Teknis Project.
-
 
 | Nama Project | Bahasa Pemograman | Database | Web Server | Repository |
 |---- |----|----|----|----|
 | API Daftar Rumah Sakit Di Jakarta | PHP, Framework Laravel 9 | MySQL | Localhost | https://github.com/block7code/test_dinkes_dki_yusuf_SP |
 
+## Cara install 
 
+- **Clone prject** Buka termimanal cd ke folder yg inngin disimpan atau di dalam htdoct dan jalan kan 
+```
+  git clone https://github.com/block7code/test_dinkes_dki_yusuf_SP.git 
+```
+
+- **Masuk ke folder prject** cd test_dinkes_dki_yusuf_SP dan enter
+```
+  cd test_dinkes_dki_yusuf_SP
+```
+
+- **Buat database** 
+```mySql
+
+  CREATE DATABASE myapp_database;
+```
+
+- **Update file .ENV**  port dan database sesuaikan dengan server Anda
+```laravel
+
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=myapp_database 
+    DB_USERNAME=root
+    DB_PASSWORD=root
+```
+
+- **Migrasi table "rumah_sakit"**
+```laravel
+
+   public function up()
+    {
+        Schema::create('rumah_sakit', function (Blueprint $table) {
+            $table->increments('id'); 
+            $table->char('id_kode', 36)->unique();
+            $table->string('nama')->nullable();
+            $table->string('organisasi_id')->nullable();
+            $table->integer('kode_rs')->nullable();
+            $table->string('kelas_rs')->nullable();
+            $table->string('status', 50)->default('Belum Terkoneksi');
+            $table->text('alamat')->nullable();
+            $table->string('kota_kab')->nullable();
+            $table->string('email')->nullable();
+            $table->string('lokasi')->nullable();
+            $table->integer('jumlah_pengiriman_data')->nullable();
+            $table->timestamps(0); 
+        });
+    }
+
+     /* Jalankan perintah berikut  */
+    php artisan migrate --path=/database/migrations/2025_01_17_065714_rumah_sakit.php
+```
+
+- **Jalankan Projectnya**
+```laravel
+    /* Jalankan perintah berikut  */
+     php artisan serve
+    /* Maka kejenerat Server  */
+     http://127.0.0.1:8000/api/mergedata
+
+    /* Atau kalau folder project simpan di localhost htdoct bisa buka url berikut */
+    http://localhost:8888/test_dinkes_dki_yusuf_SP/public/api/mergedata
+```
 
 
 ## Preview 
