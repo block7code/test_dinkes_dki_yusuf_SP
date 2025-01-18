@@ -98,7 +98,8 @@ Penjelasan & Dokumen Teknis Project.
     <th>Contoh Kesulurhan</th>
   </tr>
   <tr>
-    <td><img width="100%" alt="Preview "  src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/preview.gif" > </td>
+    <td><img width="100%" alt="Preview all"  src="https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/preview-all.gif" > </td>
   </tr>
+
 </table>
 <img width="514" alt="preview-all"  src="/screen/preview-all.gif" > 
