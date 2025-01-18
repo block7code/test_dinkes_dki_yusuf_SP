@@ -22,7 +22,7 @@ Penjelasan & Dokumen Teknis Project.
 
 | Nama Project | Bahasa Pemograman | Database | Web Server | Repository |
 |---- |----|----|----|----|
-| API Daftar Rumah Sakit Di Jakarta | PHP, Framework Laravel 9 | MySQL | Localhost | https://github.com/block7code/test_dinkes_dki_yusuf_SP |
+| API Daftar Rumah Sakit Di Jakarta | PHP 8.0.2, Framework Laravel 9 | MySQL | Localhost | https://github.com/block7code/test_dinkes_dki_yusuf_SP |
 
 ## Cara install 
 
@@ -102,5 +102,4 @@ Penjelasan & Dokumen Teknis Project.
   </tr>
 </table>
 
-<img width="514" alt="flutter test"  src="/screenshots/preview.mp4" > 
 
