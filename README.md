@@ -93,9 +93,6 @@ Penjelasan & Dokumen Teknis Project.
 
 ## Preview 
 
-![banner](https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/preview.gif)
-<br>
-
 <table style="width:100%">
   <tr>
     <th>Contoh Kesulurhan</th>
@@ -105,6 +102,5 @@ Penjelasan & Dokumen Teknis Project.
   </tr>
 </table>
 
+<img width="514" alt="flutter test"  src="/screenshots/preview.mp4" > 
 
-![banner](https://raw.githubusercontent.com/block7code/test_dinkes_dki_yusuf_SP/refs/heads/main/screen/preview.gif)
-<br>
